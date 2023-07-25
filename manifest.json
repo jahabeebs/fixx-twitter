@@ -2,7 +2,7 @@
   "manifest_version": 2,
   "name": "Fixx Branding",
   "version": "1.0",
-  "description": "A Chrome extension that replaces Twitter's X branding with the branding of your choice.",
+  "description": "Replace Twitter's X branding with a rooster.",
   "icons": {
     "16": "assets/images/rooster-color-icon.png",
     "32": "assets/images/rooster-color-icon.png",
