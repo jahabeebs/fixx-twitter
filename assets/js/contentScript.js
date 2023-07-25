@@ -1,5 +1,3 @@
-
-
 var images = document.getElementsByTagName('img');
 var link = document.querySelector("link[rel~='icon']");
 
